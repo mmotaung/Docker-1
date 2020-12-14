@@ -1,0 +1,39 @@
+#Docker for beginners
+https://youtu.be/zJ6WbK9zFpI
+
+#Creating your first Dockerfile, image and container
+https://youtu.be/hnxI-K10auY
+
+#Using docker without sudo
+https://serverfault.com/questions/821062/how-to-run-sudo-chmod-666-var-run-docker-sock-on-ubuntu-before-the-services
+https://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo
+
+#docker create
+https://docs.docker.com/engine/reference/commandline/create/
+
+#docker build and run containers
+https://docs.docker.com/engine/reference/commandline/build/
+https://docs.docker.com/get-started/part2/
+
+#docker network
+https://docs.docker.com/engine/reference/commandline/network/
+https://www.tutorialspoint.com/docker/docker_networking.htm
+
+#docker exec
+https://docs.docker.com/engine/reference/commandline/exec/#:~:text=Extended%20description,default%20directory%20of%20the%20container.
+
+#Creating a Dockerfile best practices
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
+##Dealing with errors
+
+#bundle install error
+https://stackoverflow.com/questions/62965073/gemextbuilderror-error-failed-to-build-gem-native-extension-keep-getting
+
+#installing yarn
+
+https://linuxize.com/post/how-to-install-yarn-on-ubuntu-20-04/
+https://stackoverflow.com/questions/57891751/webpacker-configuration-file-not-found-rails-6-0-0
+
+#teamspeak
+https://hub.docker.com/_/teamspeak
