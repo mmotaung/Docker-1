@@ -1,1 +1,1 @@
-docker spawning-pool env
+docker exec spawning-pool env
